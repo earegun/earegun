@@ -8,9 +8,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=earegun.earegun&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Estiuck Al Regun is an entrepreneur, SOC analyst, artist, and podcaster. He is the Founder & CEO of DataXpie. With awards of more than 15 as of June 2021, he is the leading entrepreneur of Bangladesh according to the World Confederation of Businesses.
+Estiuck Al Regun is a technology inventor by the heart — he builds startups. Still today, he helps more than thousands of brands by his DataXpie company. As the founder of DataXpie, Regun leads all the sub-startups. Besides that, he has a deep understanding of cybersecurity to monitor and fight threats to an organization’s IT infrastructure and assess security systems and measures for weaknesses and possible improvements. He has released soundtracks on different music platforms such as Apple Music, Amazon Music, Google Play Music, JioSaavan, Hungama, iTunes, Spotify, also many others. His podcast is also available in Apple Podcasts, Breaker, Castbox, Google Podcasts, Overcast, Pocket Casts, RadioPublic, Spotify.
 
-Joined Github November7, 2016.
+Joined Github November 7, 2016.
 
 Like My Work?
 
@@ -22,11 +23,11 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with DevSecOps, Web DevOps, </br> UI/UX & Brand Design , etc.
+- 🚀 &nbsp; I’m currently working with @DataXpie.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/earegun).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/earegun/earegun/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Hackers steal 75 records every second. 
 - 📫 &nbsp; How to reach me: hay@earegun.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.earegun.com/resume/).
 
