@@ -25,15 +25,15 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with DevSecOps, Web DevOps, </br> UI/UX & Brand Design , etc.
 - 🚀 &nbsp; I’m currently working with @DataXpie.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/earegun).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/earegun/earegun/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://www.earegun.com/my-portfolio/).
+- 💬 &nbsp; Ask me about anything [here](https://earegun.com/contact/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Hackers steal 75 records every second. 
-- 📫 &nbsp; How to reach me: hay@earegun.com.
-- 📝 &nbsp; Checkout my [Resume](https://www.earegun.com/resume/).
+- 📫 &nbsp; How to reach me: hola@earegun.com.
+- 📝 &nbsp; Checkout my [About Me](https://www.earegun.com/about-me).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
